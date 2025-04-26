@@ -1,3 +1,4 @@
+/*
 abstract class AssetLotties {
   static const String cloudyLottie = 'assets/lotties/cloudy_lottie.json';
   static const String fogLottie = 'assets/lotties/fog_lottie.json';
@@ -10,3 +11,4 @@ abstract class AssetLotties {
   static const String sunnyLottie = 'assets/lotties/sunny_lottie.json';
   static const String thunderLottie = 'assets/lotties/thunder_lottie.json';
 }
+*/

@@ -1,3 +1,4 @@
+/*
 import 'package:dio/dio.dart';
 import 'package:weather_forecast/core/utils/models/weather_search_model.dart';
 
@@ -13,3 +14,4 @@ class ApiService {
     return WeatherSearchModel.fromJson(json: response.data);
   }
 }
+*/

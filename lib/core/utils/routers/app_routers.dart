@@ -1,3 +1,4 @@
+/*
 import 'package:go_router/go_router.dart';
 import 'package:weather_forecast/core/utils/constant/string_variables.dart';
 import 'package:weather_forecast/features/details/presentation/views/details_view.dart';
@@ -17,3 +18,4 @@ class AppRouters {
     ],
   );
 }
+*/

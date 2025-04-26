@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:weather_forecast/core/utils/styles/style_to_colors.dart';
 import 'package:weather_forecast/core/utils/components/background_color_component.dart';
@@ -18,3 +19,4 @@ class SearchView extends StatelessWidget {
     );
   }
 }
+*/

@@ -1,3 +1,4 @@
+/*
 import 'package:weather_forecast/core/utils/models/weather_hourly_forecast_model.dart';
 
 class WeatherDailyForecastModel {
@@ -35,3 +36,4 @@ class WeatherDailyForecastModel {
     //value the hour key is List, but elements inside this List is Map so you should focus on(1: as List in WeatherDailyForecastModel file, 2: dataType json parameter inside WeatherHourlyForecastModel file)
   }
 }
+*/

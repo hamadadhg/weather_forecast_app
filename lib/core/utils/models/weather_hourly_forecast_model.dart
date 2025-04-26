@@ -1,3 +1,4 @@
+/*
 class WeatherHourlyForecastModel {
   String time, weatherState;
   num temperature;
@@ -18,3 +19,4 @@ class WeatherHourlyForecastModel {
     );
   }
 }
+*/

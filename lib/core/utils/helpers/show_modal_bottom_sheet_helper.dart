@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:weather_forecast/core/utils/models/weather_search_model.dart';
 import 'package:weather_forecast/core/utils/styles/style_to_colors.dart';
@@ -15,3 +16,4 @@ void showModalBottomSheetHelper({
             CustomShowModalBottomSheet(weatherSearchModel: weatherSearchModel),
   );
 }
+*/

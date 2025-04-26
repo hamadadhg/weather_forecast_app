@@ -1,3 +1,4 @@
+/*
 import 'package:weather_forecast/core/utils/models/weather_search_model.dart';
 
 abstract class WeatherSearchState {}
@@ -15,3 +16,4 @@ class WeatherSearchFailureState extends WeatherSearchState {
   final String errorMessageInFailureState;
   WeatherSearchFailureState({required this.errorMessageInFailureState});
 }
+*/

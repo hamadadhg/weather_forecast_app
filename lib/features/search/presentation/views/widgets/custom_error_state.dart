@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:weather_forecast/core/utils/classes/asset_images/asset_images.dart';
 import 'package:weather_forecast/core/utils/styles/style_to_texts.dart';
@@ -27,3 +28,4 @@ class CustomErrorState extends StatelessWidget {
     );
   }
 }
+*/

@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:weather_forecast/core/utils/helpers/get_scale_factor_helper.dart';
 
@@ -11,3 +12,4 @@ double responsiveTextHelper({
   double upperLimit = fontSize * 1.2;
   return newFontSize.clamp(lowerLimit, upperLimit);
 }
+*/

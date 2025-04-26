@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:weather_forecast/core/utils/styles/style_to_colors.dart';
 import 'package:weather_forecast/features/search/presentation/views/widgets/custom_top_padding.dart';
@@ -18,3 +19,4 @@ class CustomLoadingState extends StatelessWidget {
     );
   }
 }
+*/

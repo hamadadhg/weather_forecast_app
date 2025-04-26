@@ -1,3 +1,4 @@
+/*
 import 'package:dio/dio.dart';
 import 'package:get_it/get_it.dart';
 import 'package:weather_forecast/core/utils/data/repository/weather_repository_implementation.dart';
@@ -9,3 +10,4 @@ void serviceLocator() {
     WeatherRepositoryImplementation(apiService: ApiService(dio: Dio())),
   );
 }
+*/

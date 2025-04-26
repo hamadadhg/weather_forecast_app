@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:weather_forecast/core/utils/classes/asset_images/asset_images.dart';
 import 'package:weather_forecast/core/utils/models/weather_search_model.dart';
@@ -33,3 +34,4 @@ class CustomDetailsViewBody extends StatelessWidget {
     );
   }
 }
+*/

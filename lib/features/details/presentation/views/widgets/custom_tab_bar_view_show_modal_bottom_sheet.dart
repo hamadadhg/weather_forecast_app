@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:weather_forecast/core/utils/models/weather_search_model.dart';
 import 'package:weather_forecast/features/details/presentation/views/widgets/custom_hourly_forecast.dart';
@@ -19,3 +20,4 @@ class CustomTabBarViewShowModalBottomSheet extends StatelessWidget {
     );
   }
 }
+*/

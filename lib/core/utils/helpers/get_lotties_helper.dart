@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 import 'package:weather_forecast/core/utils/classes/asset_lotties/asset_lotties.dart';
@@ -83,3 +84,4 @@ Widget getLottiesHelper({
   }
   return Lottie.asset(lotties, height: height * percent, fit: BoxFit.cover);
 }
+*/

@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:weather_forecast/core/utils/constant/string_variables.dart';
@@ -9,3 +10,4 @@ void pushGoRouterHelper({
 }) {
   GoRouter.of(context).push(kDetailsViewRouter, extra: weatherSearchModel);
 }
+*/

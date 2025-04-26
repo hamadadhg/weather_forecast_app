@@ -1,3 +1,4 @@
+/*
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:weather_forecast/core/utils/data/repository/weather_repository_implementation.dart';
 import 'package:weather_forecast/features/search/presentation/managers/cubits/weather_search_state.dart';
@@ -23,3 +24,4 @@ class WeatherSearchCubit extends Cubit<WeatherSearchState> {
     );
   }
 }
+*/

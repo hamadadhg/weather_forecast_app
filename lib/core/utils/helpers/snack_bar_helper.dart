@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:weather_forecast/core/utils/constant/duration_variables.dart';
 import 'package:weather_forecast/core/utils/styles/style_to_colors.dart';
@@ -30,3 +31,4 @@ void snackBarHelper({required BuildContext context, required String text}) {
     ),
   );
 }
+*/

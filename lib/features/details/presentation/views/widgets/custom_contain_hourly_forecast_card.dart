@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/widgets.dart';
 import 'package:weather_forecast/core/utils/helpers/date_format_helper.dart';
 import 'package:weather_forecast/core/utils/helpers/get_lotties_helper.dart';
@@ -35,3 +36,4 @@ class CustomContainHourlyForecastCard extends StatelessWidget {
     );
   }
 }
+*/

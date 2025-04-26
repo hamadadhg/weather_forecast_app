@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:weather_forecast/core/utils/styles/style_to_colors.dart';
 
@@ -15,3 +16,4 @@ class CustomIcon extends StatelessWidget {
     );
   }
 }
+*/

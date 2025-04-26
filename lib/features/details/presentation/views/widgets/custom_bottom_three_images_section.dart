@@ -1,3 +1,4 @@
+/*
 // ignore_for_file: use_build_context_synchronously
 import 'package:flutter/material.dart';
 import 'package:weather_forecast/core/utils/classes/asset_images/asset_images.dart';
@@ -44,3 +45,4 @@ class CustomBottomThreeImagesSection extends StatelessWidget {
     );
   }
 }
+*/

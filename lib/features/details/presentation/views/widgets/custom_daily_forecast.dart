@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:weather_forecast/core/utils/models/weather_search_model.dart';
 import 'package:weather_forecast/features/details/presentation/views/widgets/custom_daily_forecast_card.dart';
@@ -25,3 +26,4 @@ class CustomDailyForecast extends StatelessWidget {
     );
   }
 }
+*/

@@ -1,3 +1,4 @@
+/*
 import 'package:dio/dio.dart';
 
 class ErrorMessages {
@@ -82,3 +83,4 @@ class ErrorServer extends ErrorMessages {
     }
   }
 }
+*/

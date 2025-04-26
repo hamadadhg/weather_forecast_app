@@ -1,3 +1,4 @@
+/*
 import 'package:weather_forecast/core/utils/models/weather_daily_forecast_model.dart';
 
 class WeatherSearchModel {
@@ -18,3 +19,4 @@ class WeatherSearchModel {
     //value the forecastday key is List, but elements inside this List is Map so you should focus on(1: as List in WeatherSearchModel file, 2: dataType json parameter inside WeatherDailyForecastModel file)
   }
 }
+*/

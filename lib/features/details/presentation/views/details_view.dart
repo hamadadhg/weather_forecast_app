@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:weather_forecast/core/utils/models/weather_search_model.dart';
@@ -21,3 +22,4 @@ class DetailsView extends StatelessWidget {
     );
   }
 }
+*/

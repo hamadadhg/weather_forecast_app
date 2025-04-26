@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:weather_forecast/core/utils/styles/style_to_colors.dart';
 
@@ -22,3 +23,4 @@ class BackgroundColorComponent extends StatelessWidget {
     );
   }
 }
+*/

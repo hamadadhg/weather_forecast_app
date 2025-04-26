@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 
 class CustomClickOnBottomImage extends StatelessWidget {
@@ -17,3 +18,4 @@ class CustomClickOnBottomImage extends StatelessWidget {
     );
   }
 }
+*/
